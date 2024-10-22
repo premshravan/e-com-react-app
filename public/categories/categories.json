@@ -1,0 +1,38 @@
+{
+    "categories":[
+       
+        {
+            "name":"Table",
+            "image":"categories/images/05.svg"
+        },
+        {
+            "name":"Lamp",
+            "image":"categories/images/06.svg"
+        },
+        {
+            "name":"Lamp",
+            "image":"categories/images/07.svg"
+        },
+        {
+            "name":"Chair",
+            "image":"categories/images/08.svg"
+        },  {
+            "name":"Sofa",
+            "image":"categories/images/09.svg"
+        }
+        ,  {
+            "name":"Table",
+            "image":"categories/images/10.svg"
+        }
+        ,  {
+            "name":"Tv",
+            "image":"categories/images/11.svg"
+        },
+        {
+            "name":"lamp",
+            "image":"categories/images/07.svg"
+        }
+        
+    
+    ]
+}

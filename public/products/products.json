@@ -1,0 +1,316 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Armchairs",
+      "description": "Best quality product",
+      "price":  3500,
+      "category": "chairs",
+      "images": [
+        "/products/images/01.jpg",
+        "/products/images/02.jpg",
+        "/products/images/03.jpg"
+      ],
+      "reviews": [
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        },
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rocking",
+      "description": "Best quality product",
+      "price":  3500,
+      "category": "chairs",
+      "images": [
+        "/products/images/02.jpg",
+        "/products/images/01.jpg",
+        "/products/images/03.jpg"
+      ],
+      "reviews": [
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        },
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Club chairs",
+      "description": "Best quality product",
+      "price": 4000,
+      "category": "chairs",
+      "images": [
+        "/products/images/04.jpg",
+        "/products/images/13.jpg",
+        "/products/images/03.jpg"
+      ],
+      "reviews": [
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        },
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Office",
+      "description": "Best quality product",
+      "price": 3500,
+      "category": "chairs",
+      "images": [
+        "/products/images/06.jpg",
+        "/products/images/02.jpg",
+        "/products/images/03.jpg"
+      ],
+      "reviews": [
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        },
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Reclainer",
+      "description": "Best quality product",
+      "price": 2550,
+      "category": "chairs",
+      "images": [
+        "/products/images/13.jpg",
+        "/products/images/02.jpg",
+        "/products/images/13.jpg"
+      ],
+      "reviews": [
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        },
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Bergre",
+      "description": "Best quality product",
+      "price": 1570,
+      "category": "chairs",
+      "images": [
+        "/products/images/08.jpg",
+        "/products/images/01.jpg",
+        "/products/images/05.jpg"
+      ],
+      "reviews": [
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        },
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Malicure",
+      "description": "Best quality product",
+      "price": 2550,
+      "category": "chairs",
+      "images": [
+        "/products/images/05.jpg",
+        "/products/images/02.jpg",
+        "/products/images/03.jpg"
+      ],
+      "reviews": [
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        },
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Zainer",
+      "description": "Best quality product",
+      "price": 3000,
+      "category": "chairs",
+      "images": [
+        "/products/images/10.jpg",
+        "/products/images/09.jpg",
+        "/products/images/05.jpg"
+      ],
+      "reviews": [
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        },
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Laprot",
+      "description": "Best quality product",
+      "price": 4500,
+      "category": "chairs",
+      "images": [
+        "/products/images/07.jpg",
+        "/products/images/12.jpg",
+        "/products/images/15.jpg"
+      ],
+      "reviews": [
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        },
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Zechus",
+      "description": "Best quality product",
+      "price": 2500,
+      "category": "chairs",
+      "images": [
+        "/products/images/09.jpg",
+        "/products/images/01.jpg",
+        "/products/images/03.jpg"
+      ],
+      "reviews": [
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        },
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Majtis",
+      "description": "Best quality product",
+      "price": 3000,
+      "category": "chairs",
+      "images": [
+        "/products/images/11.jpg",
+        "/products/images/12.jpg",
+        "/products/images/15.jpg"
+      ],
+      "reviews": [
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        },
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Chair",
+      "description": "Best quality product",
+      "price": 2500,
+      "category": "chairs",
+      "images": [
+        "/products/images/07.jpg",
+        "/products/images/06.jpg",
+        "/products/images/12.jpg"
+      ],
+      "reviews": [
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        },
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Relister",
+      "description": "Best quality product",
+      "price": 1500,
+      "category": "chairs",
+      "images": [
+        "/products/images/08.jpg",
+        "/products/images/09.jpg",
+        "/products/images/10.jpg"
+      ],
+      "reviews": [
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        },
+        {
+          "user": "paru",
+          "rating": 5,
+          "comment": "One of the best product i have ever used."
+        }
+      ]
+    }
+  ]
+}
